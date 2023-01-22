@@ -1,6 +1,8 @@
 # Weather App
 
-The goal of the project was to make a Weather app using promises with async/await and fetch.
+The goal of the project was to make a Weather app using promises with async/await and fetch API.
+
+-   Extra goal: use typescript with webpack
 
 ## Built With
 
@@ -30,7 +32,7 @@ In order to setup and work on this project on your own, you will need to:
 
 ### Usage
 
--   Soon...
+On the homepage, enter a city name in the text input and press Request weather to generate a weather report for that city.
 
 ## Deployed on GitHub Pages
 
